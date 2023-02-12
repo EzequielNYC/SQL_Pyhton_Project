@@ -22,5 +22,3 @@ The results are displayed in a bar plot, where the countries are sorted by their
 
 ![Figure 1](fig1.png)
 ![Figure 2](fig2.png)
-![Figure 3](fig3.png)
-![Figure 4](fig4.png)
